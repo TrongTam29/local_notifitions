@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579758588408",
+    "project_id": "test-call-video",
+    "storage_bucket": "test-call-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579758588408:android:005ea6cd7016dddd46560d",
+        "android_client_info": {
+          "package_name": "com.example.call_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579758588408-jpguvmtacjufqkgcute4oodpsq6vh063.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwdUXr1RV7iSwezwfxYSWbbqu4ax5meM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579758588408-jpguvmtacjufqkgcute4oodpsq6vh063.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
